@@ -1,3 +1,7 @@
+/**
+* This class is used to print Pascal Triangle with/n taking mod
+* @Author Hackerry
+*/
 public class Pascal {
 	public static void printPascal(int limit) {
 		if(limit <= 0) throw new IllegalArgumentException();
