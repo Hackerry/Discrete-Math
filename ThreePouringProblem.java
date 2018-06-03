@@ -134,7 +134,7 @@ public class ThreePouringProblem {
     }
     
     public static void main(String[] args) {
-        ThreePouringProblem tp = new ThreePouringProblem(25, 37, 7, 0, 30, 0, 33);
+        ThreePouringProblem tp = new ThreePouringProblem(25, 37, 7, 0, 30, 0, 17);
         tp.solve();
     }
 }
